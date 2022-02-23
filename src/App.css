@@ -1,0 +1,28 @@
+.app {
+  max-width: 1000px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin: 0 auto;
+}
+
+.add-news-btn {
+  width: 120px;
+}
+
+.news-block {
+  padding: 16px;
+  margin: 30px 0;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.save-btn {
+  margin-top: 16px;
+  width: 120px;
+}
+
+.delete-btn {
+  margin-top: 16px;
+  width: 120px;
+  margin-left: 8px;
+}
